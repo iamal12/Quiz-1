@@ -12,3 +12,5 @@ Simple QUIZ application to demonstrate some andoid features
   - Text Blink - Drawable 
   - Layout designs
   - ActionBar options
+
+https://www.techbuy.in/
